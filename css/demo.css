@@ -34,7 +34,7 @@ body {
 /*-------custom------*/
 
 .high{
-    color: #eecc99;
+    color: #eecc99 !important;
     font-size: 1.2em;
 }
 
